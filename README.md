@@ -1,2 +1,5 @@
 # hello-world
-1- Repository
+
+Hello there!
+
+I go by Omy. I hope you enjoy the view.
